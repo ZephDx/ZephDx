@@ -2,33 +2,31 @@
 
 **Senior project consultant @ Focus Technology** · Foz do Iguaçu, Brazil
 
-I consult on IT operations and lead a 16-person hardware operations team. My work sits between IT governance and hands-on engineering: I design the ITSM processes the team runs on, and I still write the scripts, integrations and firmware behind the projects we deliver.
+I work where IT service management meets code. I design the processes an IT operation runs on, then write the automation that keeps those processes from turning back into manual work. Freshservice is my home turf; Python is how I get out of repetitive tasks.
 
 ---
 
-### What I work on
+### What I do
 
-**ITSM & IT governance** — Freshservice end to end: service catalog, category taxonomy, SLAs, change management (GMUD), workflow automation and API-driven bulk operations.
+**ITSM & Freshservice** — building a service desk from the ground up: category taxonomy, service catalog, SLAs, ticket workflows and change management (GMUD, both emergency and scheduled tracks). Administration and design, not just day-to-day usage.
 
-**Automation & integrations** — Python and PowerShell against REST APIs to take manual steps out of operational routines: ticket migration, reporting, data reconciliation.
+**Automation over APIs** — Python against the Freshservice API v2 for everything the interface can't do: bulk operations on tickets, migration between environments, reporting and data reconciliation. PowerShell when the problem lives on the Windows side.
 
-**Applied technology** — drone survey and photogrammetry pipelines, BLE asset tracking (beacons + MQTT gateway), underwater audio recording with ESP32, and internal web apps built with Flask.
+**Internal tools** — small web applications that solve one specific operational problem and actually get used. Flask on a Linux server when it needs to last, Firebase when it needs to be online tomorrow.
 
-**People management** — team development, hiring and onboarding, climate analysis for a 16-person operation.
-
-### Tech I use
+### Tech
 
 **Languages** — Python · JavaScript · TypeScript · HTML/CSS · PowerShell · Bash · SQL
 
 **Backend & data** — Flask · Node.js · Firebase · SQLite · REST APIs
 
-**Ops & hardware** — Linux server administration · Freshservice API · MQTT · ESP32 / Arduino · Git
+**Ops** — Linux server administration · Freshservice API v2 · Git
 
 ### Currently
 
-- Building emergency and scheduled change-management (GMUD) workflows in Freshservice
-- Prototyping an ESP32-based hydrophone recorder for underwater audio
-- Running a Linux game server for friends, which is Linux practice with a much less forgiving user base
+- Designing emergency and scheduled change-management (GMUD) workflows in Freshservice
+- Building Python tooling on top of the Freshservice API v2
+- Keeping the Linux side sharp by running a game server for friends, which is a famously forgiving user base
 
 ---
 
