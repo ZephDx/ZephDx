@@ -1,8 +1,8 @@
 ## Matheus Henrique
 
-**Technology team lead @ Focus Technology** · Foz do Iguaçu, Brazil
+**Senior project consultant @ Focus Technology** · Foz do Iguaçu, Brazil
 
-I lead a 16-person hardware operations team. My work sits between IT governance and hands-on engineering: I design the ITSM processes the team runs on, and I still write the scripts, integrations and firmware behind the projects we deliver.
+I consult on IT operations and lead a 16-person hardware operations team. My work sits between IT governance and hands-on engineering: I design the ITSM processes the team runs on, and I still write the scripts, integrations and firmware behind the projects we deliver.
 
 ---
 
