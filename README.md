@@ -1,8 +1,8 @@
 ## Matheus Henrique
 
-**Technology team lead @ Itaipu Parquetec** · Foz do Iguaçu, Brazil
+**Technology team lead @ Focus Technology** · Foz do Iguaçu, Brazil
 
-I lead the *Operação Hardware* team (16 people) at the Centro de Tecnologias Aplicadas. My work sits between IT governance and hands-on engineering: I design the ITSM processes the team runs on, and I still write the scripts, integrations and firmware behind our applied-technology projects.
+I lead a 16-person hardware operations team. My work sits between IT governance and hands-on engineering: I design the ITSM processes the team runs on, and I still write the scripts, integrations and firmware behind the projects we deliver.
 
 ---
 
